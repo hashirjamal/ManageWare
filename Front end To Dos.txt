@@ -1,0 +1,8 @@
+CRUD operations for Inventory
+Charts for stats
+DnD for Purchase and Sale Order
+
+
+
+Change Font
+Implement transitions (gsap)

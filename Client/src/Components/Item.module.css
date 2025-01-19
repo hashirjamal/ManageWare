@@ -1,0 +1,7 @@
+.modalInp{
+    @apply w-3/5 border rounded-md py-1 my-1 px-2 border-gray-400
+}
+
+.modalInpBox{
+    @apply flex justify-between items-center
+}
